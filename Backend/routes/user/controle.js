@@ -1,0 +1,3 @@
+const { getAlluser } = require("./model");
+
+

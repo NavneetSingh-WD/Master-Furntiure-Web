@@ -1,0 +1,24 @@
+{
+  "name": "master-furntiure-web",
+  "version": "1.0.0",
+  "main": "index.js",
+    "scripts": {
+    "dev": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\""
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavneetSingh-WD/Master-Furntiure-Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavneetSingh-WD/Master-Furntiure-Web/issues"
+  },
+  "homepage": "https://github.com/NavneetSingh-WD/Master-Furntiure-Web#readme",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
